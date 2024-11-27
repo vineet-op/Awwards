@@ -24,7 +24,9 @@ Recreated the **Zentry Website**, a modern gaming platform, using **React**, **T
 
 ## 📸 Live preview
 
-![Zentry Clone Homepage](path/to/your/screenshot-homepage.png)
+https://github.com/user-attachments/assets/57f15041-7273-4f08-be6e-423d7bf61f69
+
+
 
 
 ## ⚙️ Installation and Setup
