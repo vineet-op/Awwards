@@ -1,8 +1,38 @@
-# React + Vite
+# Zentry Gaming Website Clone 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Recreated the **Zentry Website**, a modern gaming platform, using **React**, **Tailwind CSS**, and **GSAP** for smooth animations. This project focuses on delivering an engaging user interface with seamless animations and a responsive design.  
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive Design:** Fully optimized for all screen sizes, including mobile, tablet, and desktop.
+- **GSAP Animations:** Smooth animations for an interactive and visually appealing user experience.
+- **Modern UI/UX:** Designed with Tailwind CSS to ensure a clean and aesthetic appearance.
+- **Optimized Performance:** Ensured fast loading and smooth transitions.
+- **Gaming-Focused Design:** Elements crafted specifically for gaming enthusiasts.
+
+## 🛠️ Technologies Used
+
+- ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+  A JavaScript library for building user interfaces.
+
+- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+  A utility-first CSS framework for rapid UI development.
+
+- ![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)  
+  A powerful JavaScript library for creating high-performance animations.
+
+
+## 📸 Live preview
+
+![Zentry Clone Homepage](path/to/your/screenshot-homepage.png)
+
+
+## ⚙️ Installation and Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/zentry-clone.git
+   cd zentry-clone
+   npm install
+   npm run dev
+
