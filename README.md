@@ -31,8 +31,8 @@ Recreated the **Zentry Website**, a modern gaming platform, using **React**, **T
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/zentry-clone.git
-   cd zentry-clone
+   git clone https://github.com/yourusername/awaards.git
+   cd Awwards
    npm install
    npm run dev
 
